@@ -1,0 +1,5 @@
+1. install reactjs and taiwindcss to create templete
+    npm create vite@latest client
+    https://tailwindcss.com/docs/guides/vite
+2. create pages and router
+    npm create react-router-dom
