@@ -3,3 +3,8 @@
     https://tailwindcss.com/docs/guides/vite
 2. create pages and router
     npm create react-router-dom
+3. create Header component
+4. crate and run the server
+    npm init -y (root forlder)
+    npm i express
+    npm i nodemon
