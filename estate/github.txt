@@ -1,0 +1,15 @@
+1. install reactjs and taiwindcss to create templete
+    npm create vite@latest client
+    https://tailwindcss.com/docs/guides/vite
+2. create pages and router
+    npm create react-router-dom
+3. create Header component
+4. crate and run the server
+    npm init -y (root forlder)
+    npm i express
+    npm i nodemon
+5. connect to mongodb
+    npm i mongoose
+    name: estate, estate1989
+    npm i dotenv
+    
