@@ -12,4 +12,5 @@
     npm i mongoose
     name: estate, estate1989
     npm i dotenv
-    
+6. crate user model
+
