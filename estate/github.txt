@@ -13,4 +13,4 @@
     name: estate, estate1989
     npm i dotenv
 6. crate user model
-
+7. crate a test api route
