@@ -24,5 +24,7 @@
 13. complete sign in page functionaly
 14. add redux toolkit(client side)
     https://redux-toolkit.js.org/tutorials/quick-start
+15. add redux persist : luu truu cookie dang nhap
+    npm i redux-persist
 
 
