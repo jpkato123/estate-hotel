@@ -29,4 +29,4 @@
 16. add google oauth functionaly
     npm install firebase
 17. update the header and make the profile page private
-
+18. complete profile page ui
