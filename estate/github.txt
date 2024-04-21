@@ -26,5 +26,6 @@
     https://redux-toolkit.js.org/tutorials/quick-start
 15. add redux persist : luu truu cookie dang nhap
     npm i redux-persist
-
+16. add google oauth functionaly
+    npm install firebase
 
