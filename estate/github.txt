@@ -16,3 +16,4 @@
 7. crate a test api route
 8. crate sign up api route
     npm i bcryptjs
+9. create a middleware and a function to handle possible errors
