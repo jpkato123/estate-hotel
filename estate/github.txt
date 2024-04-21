@@ -17,3 +17,4 @@
 8. crate sign up api route
     npm i bcryptjs
 9. create a middleware and a function to handle possible errors
+10. create sign up page ui
