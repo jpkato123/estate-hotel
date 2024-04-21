@@ -19,3 +19,5 @@
 9. create a middleware and a function to handle possible errors
 10. create sign up page ui
 11. complete sign in functionaly
+12. crate sign in api route 
+    npm i jsonwebtoken
