@@ -22,3 +22,7 @@
 12. crate sign in api route 
     npm i jsonwebtoken
 13. complete sign in page functionaly
+14. add redux toolkit(client side)
+    https://redux-toolkit.js.org/tutorials/quick-start
+
+
